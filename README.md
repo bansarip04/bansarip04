@@ -4,13 +4,13 @@ I'm a passionate third-year Electrical Engineering student with a minor in Mathe
 
 ## Projects 🎮
 
-- [Paint Project - Toy Story Themed] (): A fun Python twist on MS Paint, now with a Toy Story theme! Use brushes, colours, and stickers to create your own art or fill in built-in Toy Story colouring pages. Save your masterpieces and enjoy the creative tools. Best experienced on a 1200 x 865 screen to access everything.
+- [Paint Project - Toy Story Themed] (https://github.com/bansarip04/Paint-Project_Toy-Story-Themed): A fun Python twist on MS Paint.
   
-- [Forgotten Hero] (): A side-scrolling platformer built in Python! Fight off enemies, collect prizes, and open chests for random weapons. Level up and survive two action-packed levels—just make it to the end before your health runs out!
+- [Forgotten Hero] (https://github.com/bansarip04/Forgotten-Hero): A side-scrolling platformer game built in Python! 
   
-- [Frogger] (): The classic retro arcade Frogger game recreated in Java. Dodge cars, cross rivers, and reach all 5 safe zones! Avoid sinking turtles and catch bonus flies for extra points. Hit 500 points and earn an extra life. Beat levels and try to surpass the last person's high score!
+- [Frogger] (https://github.com/bansarip04/Frogger): The classic retro arcade Frogger game recreated in Java. 
 
-- [Tower Defence] (): A full tower defence game built in Java. Survive 8 enemy-filled rounds by placing and upgrading different shooter units. Some fire single shots, others deal splash damage or slow enemies down. Boost damage, range, and fire rate -or sell and repair units as needed. Each round brings a new enemy type, and if 10 sneak through...it's game over. 
+- [Tower Defence] (https://github.com/bansarip04/Tower-Defence): A full tower defence game built in Java. 
 
 ## Let's Connect
 
